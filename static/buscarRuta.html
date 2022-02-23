@@ -1,0 +1,17 @@
+<html>
+    <head><h1>¡Planifica tu viaje!</h1></head>
+    <body>
+    <p> Por favor ingrese su ciudad de origen y su ciudad de destino.</p>
+    <form action="http://localhost:5000/resultadoRuta" , method="POST">
+        <p>Ciudad de origen<input type="test" name="origen" /></p>
+        <p>Ciudad de destino <input type="test" name="destino" /></p>
+        <p>Deseo la mejor ruta respecto a <select id="minimizar" name="minimizar">
+            <option value="0"> Duración del trayecto </option>
+            <option value="1"> Monto en VIP </option>
+            <option value="2"> Monto en Ejecutivo </option>
+            <option value="3"> Monto en Económico </option>
+        </select> <br /></p> 
+        <p><input type="submit" value="¡Viajemos!" /></p>
+    </form>
+    </body>
+</html>

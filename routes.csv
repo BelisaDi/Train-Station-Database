@@ -1,0 +1,64 @@
+﻿id;name;route
+1;B1;Faro-Albufeira-Lisboa-Coimbra-Porto
+2;O1;Braga-Porto
+3;O2;Guimaraes-Porto
+4;B2;Cadiz-Sevilla-Cordoba-Madrid-Valladolid-Leon
+5;G1;A Coruña-Santiago de Compostela-Ourense-Leon
+6;G2;Madrid-Albacete-Valencia-Castellon
+7;P1;Coimbra-Salamanca-Valladolid-Burgos-Pamplona-San Sebastián-Bayonne
+8;P2;Madrid-Zaragoza-Lleida-Barcelona-Perpignan-Beziers-Montpellier-Nimes-Avignon
+9;O3;Vigo-Santiago de Compostela
+10;O4;Gijón-Oviedo-Leon
+11;O5;Santander-Leon
+12;O6;Bilbao-Burgos
+13;O7;Badajoz-Madrid
+14;O8;Córdoba-Málaga
+15;O9;Córdoba-Granada-Almería
+16;O10;Albacete-Murcia
+17;O11;Albacete-Alacant
+18;B3;Avignon-Valence-Lyon-Clermont Ferrand-Limoges-Orleans-Paris-Amiens-Lille
+19;G3;Bayonne-Pau-Toulouse-Beziers
+20;G4;Brest-Rennes-Le Mans-Paris
+21;G5;Le Havre-Rouen-Paris
+22;P3;Lille-London
+23;P4;Paris-Metz-Luxemburgo-Liege
+24;P5;Paris-Troye-Mulhouse-Basel-Freiburg-Strasbourg-Karlsruhe-Heidelberg
+25;P6;Lyon-Geneve-Lausanne-Bern-Zurich
+26;B4;Avignon-Marseille-Toulon-Nice-Torino
+27;O12;Bayonne-Bourdeaux-Limoges
+28;O13;Valence-Grenoble
+29;O14;St Etienne-Lyon
+30;O15;Besancon-Dijon-Mulhouse
+31;O16;Nantes-Le Mans-Tours
+32;O17;Caen-Rouen
+33;O18;Paris-Reims-Charleville Mezieres
+34;O19;Lille-Bruxelles
+35;O20;Metz-Nancy
+36;O21;Metz-Saarsbrucken
+37;O22;Basel-Bern
+38;O23;Zurich-Lugano-Milano
+39;B5;Glasgow-Edinburgh-Newcastle-York-Leeds-Manchester-Sheffield-Birminghan-London
+40;G6;Swansea-Cardiff-Bristol-Birminghan
+41;O24;Liverpool-Manchester
+42;B6;Brindisi-Bari-Foggia-Napoli-Roma-Perugia-Firenze-Pisa-La Spezia-Genova-Milano
+43;G7;Ancora-Pescara-Foggia
+44;G8;Firenze-Bologna-Venezia-Trieste
+45;G9;Milano-Verona-Bolzano
+46;O26;Verona-Padova
+47;O27;Roma-Pescara
+48;O28;Napoli-Salerno
+49;O29;Bari-Taranto
+50;O30;Pisa-Livorno
+51;B7;Oostende-Brugge-Gent-Bruxelles-Liege-Maastricht-Eindhoven-Arnhem-Utrecht-Amsterdam-Den Haag-Rotterdam
+52;G10;Amsterdam-Amersfoort-Zwolle-Groningen-Bremen
+53;O31;Bruxelles-Antwerpen
+54;O32;Liege-Aachen-Koln-Monchen Gladbach-Eindhoven
+55;B8;Rostock-Berlin-Potsdam-Dessau-Leipzig-Jena-Erfurt-Bebra-Fulda-Wurzburg-Nurnberg-Regensburg-Munchen
+56;B9;Heidelberg-Darmstadt-Mainz-Bonn-Koln-Dusseldorf-Wuppertal-Hagen-Dortmund-Osnabruck-Bremen-Hamburg-Kiel
+57;G11;Luxemburgo-Saarsbrucken-Mannheim-Heidelberg-Stuttgart-Ulm-Augsburg-Munchen
+58;G12;Osnabruck-Hannover-Braunschweig-Magdeburg-Potsdam
+59;G13;Leipzig-Dresden-Chemnitz-Zwickau
+60;O33;Berlin-Cottbus
+61;O34;Braunschweig-Hamburg-Lubeck-Schwerin-Rostock
+62;O35;Duisburg-Essen-Dortmund-Kassel-Bebra
+63;O36;Frankfurt-Fulda

@@ -1,0 +1,184 @@
+id;name;city;country;longitude;latitude
+10;Estación de La Coruña;A Coruña;España;-8.409627;43.352649
+151;Estación Central de Aachen;Aachen;Alemania;6.091253757;50.76774729
+30;Estación de Albacete-Los Llanos;Albacete;España;-1.84757;39.000094
+7;Estación de Albufeira-Ferreiras;Albufeira;Portugal;-8.232834;37.128649
+31;Estación de Alicante;Alicante;España;-0.496491;38.345249
+28;Estación de Almería;Almería;España;-2.436316;36.883689
+105;Estación Central de Amersfoort;Amersfoort;Holanda;5.374060571;52.15388396
+64;Estación de Amiens;Amiens;Francia;2.312704;49.890563
+100;Estación Central de Amsterdam;Amsterdam;Holanda;4.90057826;52.37890832
+122;Estación de Ancona;Ancona;Italia;13.497719;43.607572
+94;Estación Central de Antwerpen;Antwerpen;Bélgica;4.421138763;51.2160778
+104;Estación Central de Arnhem;Arnhem;Holanda;5.901270211;51.98450516
+140;Estación Central de Augsburg;Augsburg;Alemania;10.885552;48.36543
+51;Estación de Avignon TGV;Avignon;Francia;4.786111;43.921686
+23;Estación de Badajoz;Badajoz;España;-6.981814;38.890879
+34;Estación de Barcelona Sants;Barcelona;España;2.140367;41.378911
+115;Estación Central de Bari;Bari;Italia;16.870172;41.117716
+110;Estación de Basel SBB;Basel;Suiza;7.589181;47.547113
+39;Estación de Bayonne;Bayonne;Francia;-1.470401;43.497072
+167;Estación de Bebra;Bebra;Alemania;9.797707;50.969167
+176;Estación Central de Berlin;Berlin;Alemania;13.369615;52.525636
+109;Estación de Bern;Bern;Suiza;7.438481;46.949116
+72;Estación de Besancon;Besancon;Francia;6.020345;47.24615
+44;Estación de Béziers;Béziers;Francia;3.218849;43.336173
+19;Estación de Bilbao;Bilbao;España;-2.928650379;43.25990913
+81;Estación de Birmingham New Street;Birmingham;Gran Bretaña;-1.898375;52.478142
+124;Estación Central de Bologna;Bologna;Italia;11.343402;44.506112
+131;Estación de Bolzano;Bolzano;Italia;11.358798;46.496359
+152;Estación Central de Bonn;Bonn;Alemania;7.097143;50.73203
+42;Estación de Bordeaux-Saint-Jean;Bordeaux;Francia;-0.556116;44.825659
+1;Estacion de Braga;Braga;Portugal;-8.434451;41.548157
+177;Estación Central de Braunschweig;Braunschweig;Alemania;10.539697;52.252238
+180;Estación Central de Bremen;Bremen;Alemania;8.813652992;53.08336006
+56;Estación de Brest-Tsentralny;Brest;Francia;-4.4789;48.388098
+113;Estación de Brindisi;Brindisi;Italia;17.939157;40.634169
+78;Estación Bristol Temple Meads;Bristol;Gran Bretaña;-2.58111;51.448573
+91;Estación de Brugge;Brugge;Bélgica;3.217093;51.197257
+93;Estación Central de Bruxelles;Bruxelles;Bélgica;4.357086;50.845477
+17;Estación de Burgos Rosa de Lima;Burgos;España;-3.666297;42.371187
+25;Estación de Cádiz;Cádiz;España;-6.286902;36.527935
+59;Estación de Caen;Caen;Francia;-0.347665;49.176543
+79;Estación Central de Cardiff;Cardiff;Gran Bretaña;-3.177835;51.475434
+33;Estación de Castellón de la Plana;Castellón;España;-0.05195;39.988149
+70;Estación de Charleville Mézieres;Charleville Mézieres;Francia;4.725225;49.767762
+169;Estación Central de Chemnitz;Chemnitz;Alemania;12.930618;50.839139
+53;Estación de Clermont-Ferrand;Clermont-Ferrand;Francia;3.100671;45.778691
+6;Estacion de Coimbra;Coimbra;Portugal;-8.434084;40.210548
+24;Estación de Córdoba;Córdoba;España;-4.789338;37.888681
+172;Estación Central de Cottbus;Cottbus;Alemania;14.324158;51.750934
+146;Estación Central de Darmstadt;Darmstadt;Alemania;8.62963;49.872503
+101;Estación Central de Den Haag;Den Haag;Holanda;4.324560463;52.08083294
+173;Estación Central de Dessau;Dessau;Alemania;12.234889;51.839902
+71;Estación de Dijon-Ville;Dijon;Francia;5.027155;47.323077
+160;Estación Central de Dortmund;Dortmund;Alemania;7.459285;51.517957
+170;Estación Central de Dresden;Dresden;Alemania;13.732056;51.040617
+156;Estación Central de Duisburg;Duisburg;Alemania;6.775892;51.429791
+155;Estación Central de Dusseldorf;Dusseldorf;Alemania;6.794334;51.219937
+88;Estación de Edinburgh Waverley;Edinburgh;Gran Bretaña;-3.188267;55.952648
+106;Estación Central de Eindhoven;Eindhoven;Holanda;5.479559898;51.44301447
+165;Estación Central de Erfurt;Erfurt;Alemania;11.038491;50.972579
+157;Estación Central de Essen;Essen;Alemania;7.014464736;51.45147634
+5;Estacion de Faro;Faro;Portugal;-7.940356;37.019098
+123;Estación de Firenze Santa Maria Novella;Firenze;Italia;11.247844;43.776828
+116;Estación de Foggia;Foggia;Italia;15.555886;41.465944
+150;Estación Central de Frankfurt;Frankfurt;Alemania;8.349711;49.53557
+136;Estación Central de Freiburg;Freiburg;Alemania;7.841599;47.997684
+166;Estación de Fulda;Fulda;Alemania;9.683987;50.554731
+107;Estación de Geneve-Cornavin;Geneve;Suiza;6.142386;46.210255
+134;Estación de Genova Piazza Principe;Genova;Italia;8.922072;44.417492
+92;Estación de Gent-Sint-Pieters;Gent;Bélgica;3.710606;51.035603
+13;Estación de Gijón;Gijón;España;-5.675951;43.537725
+89;Estación de Glasgow Central;Glasgow;Gran Bretaña;-4.258101;55.859684
+27;Estación de Granada;Granada;España;-3.609075844;37.18385408
+55;Estación de Grenoble;Grenoble;Francia;5.714301;45.191361
+98;Estación de Groningen;Groningen;Holanda;6.564100385;53.21093204
+2;Estación de Guimarães;Guimarães;Portugal;-8.29441;41.43448
+159;Estación Central de Hagen;Hagen;Alemania;7.460286;51.362739
+181;Estación Central de Hamburg;Hamburg;Alemania;10.006864;53.552708
+163;Estación Central de Hannover;Hannover;Alemania;9.741002;52.376734
+144;Estación Central de Heidelberg;Heidelberg;Alemania;8.675744;49.403786
+164;Estación Jena Paradies;Jena;Alemania;11.58746;50.924868
+137;Estación Central de Karlsruhe;Karlsruhe;Alemania;8.401848;48.993509
+162;Estación Central de Kassel;Kassel;Alemania;9.489386;51.318412
+183;Estación Central de Kiel;Kiel;Alemania;10.131942;54.314944
+154;Estación Central de Koln;Koln;Alemania;6.959109306;50.94279302
+127;Estación Central de La Spezia;La Spezia;Italia;9.813678;44.111691
+108;Estación de Lausanne ;Lausanne;Suiza;6.629044;46.516669
+60;Estación de Le Havre;Le Havre;Francia;0.125713;49.492841
+61;Estación de Le Mans;Le Mans;Francia;0.190263;47.995451
+85;Estación de Leeds;Leeds;Gran Bretaña;-1.548931;53.794695
+171;Estación Central de Leipzig;Leipzig;Alemania;12.383374;51.346501
+14;Estación de León;León;España;-5.585815;42.598812
+96;Estación de Liege-Guillemins;Liege;Bélgica;5.566686;50.624322
+63;Estación de Lille;Lille;Francia;3.066887;50.614395
+43;Estación de Limoges-Bénédictins;Limoges;Francia;1.267336;45.836104
+4;Estacion de Oriente;Lisboa;Portugal;-9.122535;38.714155
+82;Estación Liverpool Lime Street;Liverpool;Gran Bretaña;-2.977752;53.407262
+125;Estación Central de Livorno;Livorno;Italia;10.336621;43.553986
+35;Estación de Lleida;Lleida;España;0.633033;41.620792
+77;Estación King's Cross;London;Gran Bretaña;-0.122916;51.531007
+182;Estación Central de Lubeck;Lubeck;Alemania;10.670357;53.867742
+112;Estación de Lugano;Lugano;Suiza;8.946673;46.005445
+97;Estación de Luxemburgo;Luxemburgo;Luxemburgo;6.134379;49.599723
+52;Estación de Lyon-Part-Dieu;Lyon;Francia;4.859511;45.76055
+95;Estación de Maastricht;Maastricht;Bélgica;5.705879;50.849813
+22;Estación de Atocha;Madrid;España;-3.689738;40.405983
+174;Estación Central de Magdeburg;Magdeburg;Alemania;11.627067;52.130298
+149;Estación Central de Mainz;Mainz;Alemania;8.258722;50.001112
+26;Estación de Málaga-María Zambrano;Málaga;España;-4.431904;36.711257
+83;Estación Manchester Piccadilly;Manchester;Gran Bretaña;-2.228991;53.476704
+148;Estación Central de Mannheim;Mannheim;Alemania;8.46953;49.479295
+47;Estación de Marseille-Saint-Charles;Marseille;Francia;5.380676;43.302831
+74;Estación de Metz-Ville;Metz;Francia;6.176779;49.109162
+133;Estación Central de Milano;Milano;Italia;9.204815;45.487155
+153;Estación Central de Monchen-Gladbach;Monchen-Gladbach;Alemania;6.446281672;51.19672911
+45;Estación de Montpellier-Saint-Roch;Montpellier;Francia;3.880726;43.604665
+73;Estación de Mulhouse-Ville;Mulhouse;Francia;7.342572;47.741896
+141;Estación Central de Munchen;Munchen;Alemania;11.558342;48.140285
+29;Estación de Murcia del Carmen;Murcia;España;-1.131516695;37.9746334
+75;Estación de Nancy-Ville;Nancy;Francia;6.174214;48.689595
+57;Estación de Nantes;Nantes;Francia;-1.54241;47.216561
+118;Estación Central de Napoli;Napoli;Italia;14.273077;40.852776
+87;Estación de Newcastle;Newcastle;Gran Bretaña;-1.6173;54.968273
+54;Estación de Nice-Ville;Nice;Francia;7.261827;43.70473
+46;Estación de Nimes;Nimes;Francia;4.364561;43.831228
+143;Estación Central de Nurnberg;Nurnberg;Alemania;11.082977;49.445669
+90;Estación de Oostende;Oostende;Bélgica;2.9268;51.228476
+67;Estación de Orléans;Orléans;Francia;1.900092;47.917071
+161;Estación Central de Osnabruck;Osnabruck;Alemania;8.06175;52.272866
+11;Estación de Ourense-Empalme;Ourense;España;-7.872748;42.350597
+12;Estación de Oviedo;Oviedo;España;-5.855324;43.36622
+130;Estación de Padova;Padova;Italia;11.880625;45.417857
+21;Estación de Pamplona;Pamplona;España;-1.661885;42.825112
+66;Estación de Paris Nord;Paris;Francia;2.355161;48.880436
+40;Estación de Pau;Pau;Francia;-0.369677;43.291541
+38;Estación de Perpignan;Perpignan;Francia;2.879531;42.696185
+121;Estación de Perugia;Perugia;Italia;12.375599;43.103816
+119;Estación Central de Pescara;Pescara;Italia;14.204058;42.468584
+126;Estación Central de Pisa;Pisa;Italia;10.39817;43.707955
+3;Estación de Porto-Sao-Bento;Porto;Portugal;-8.60996;41.145678
+175;Estación Central de Potsdam;Potsdam;Alemania;13.066782;52.391686
+142;Estación Central de Regensburg;Regensburg;Alemania;12.099615;49.011669
+68;Estación de Reims;Reims;Francia;4.025523;49.260129
+58;Estación de Rennes;Rennes;Francia;-4.34687;48.41112
+120;Estación Roma Termini;Roma;Italia;12.502095;41.900583
+178;Estación Central de Rostock;Rostock;Alemania;12.131684;54.078291
+102;Estación Central de Rotterdam;Rotterdam;Holanda;4.46901083;51.92484329
+65;Estación de Rouen-Rive-Droite;Rouen;Francia;1.09412;49.449114
+147;Estación Central de Saarbrucken;Saarbrucken;Alemania;6.990982;49.241133
+15; Estación de Salamanca;Salamanca;España;-5.648666;40.971564
+117;Estación de Salerno;Salerno;Italia;14.772557;40.675309
+20;Estación de San Sebastián;San Sebastián;España;-1.976695;43.317652
+18;Estación de Santander;Santander;España;-3.811435;43.458291
+9;Estación de Santiago de Compostela;Santiago de Compostela;España;-8.5447;42.870549
+179;Estación Central de Schwerin;Schwerin;Alemania;11.407505;53.63466
+36;Estación de Sevilla-Santa-Justa;Sevilla;España;-5.975299;37.39197
+84;Estación de Sheffield;Sheffield;Gran Bretaña;-1.462477;53.378547
+50;Estación de St. Étienne-Chateaucreux;St. Étienne;Francia;4.399748;45.44352
+76;Estación de Strasbourg-Ville;Strasbourg;Francia;7.734318;48.585197
+138;Estación Central de Stuttgart;Stuttgart;Alemania;9.181361;48.784327
+80;Estación de Swansea;Swansea;Gran Bretaña;-3.940884;51.625432
+114;Estación de Taranto;Taranto;Italia;17.224263;40.483622
+135;Estación de Torino Porta Nuova;Torino;Italia;7.677723;45.06099
+48;Estación de Toulon;Toulon;Francia;5.92937;43.128576
+41;Estación de Toulouse-Matabiau;Toulouse;Francia;1.453964;43.611297
+62;Estación de Tours;Tours;Francia;0.693994;47.389281
+128;Estación Central de Trieste;Trieste;Italia;13.771249;45.65824
+69;Estación de Troyes;Troyes;Francia;4.06482;48.295739
+139;Estación Central de Ulm;Ulm;Alemania;9.982304;48.399437
+103;Estación Central de Utrecht;Utrecht;Holanda;5.10982275;52.08939365
+49;Estación de Valence TGV;Valence;Francia;4.978719;44.991547
+32;Estación de Valencia-Norte;Valencia;España;-0.377377;39.465761
+16;Estación de Valladolid-Campo Grande;Valladolid;España;-4.727001;41.641963
+129;Estación de Venezia Santa Lucia;Venezia;Italia;12.320462;45.441399
+132;Estación de Verona Porta Nuova;Verona;Italia;10.982739;45.428667
+8;Estación de Vigo-Urzáiz;Vigo;España;-8.712949;42.239299
+158;Estación Central de Wuppertal;Wuppertal;Alemania;7.149383;51.254315
+145;Estación Central de Wurzburg;Wurzburg;Alemania;9.935777;49.801805
+86;Estación de York;York;Gran Bretaña;-1.093228;53.957995
+37;Estación de Zaragoza-Delicias;Zaragoza;España;-0.909897;41.658469
+111;Estación Central de Zurich;Zurich;Suiza;8.539211;47.378216
+168;Estación Central de Zwickau;Zwickau;Alemania;12.475982;50.714698
+99;Estación de Zwolle;Zwolle;Holanda;6.091243029;52.5050028
